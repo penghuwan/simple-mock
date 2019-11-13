@@ -6,4 +6,14 @@ export default [
       b: [{c: 1}, {d: 1}],
     },
   },
+  {
+    rule: '/mock2',
+    res: {
+      j: {
+        q: {
+          k: 'xxx',
+        },
+      },
+    },
+  },
 ];
